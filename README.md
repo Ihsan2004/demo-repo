@@ -14,6 +14,10 @@ Study the lesson.
 
 Jose Moruinho
 
+## Boğaziçi
+
+1869
+CMPE
 
 > The overriding design goal for Markdown's dd
 > formatting syntax is to make it as readable
